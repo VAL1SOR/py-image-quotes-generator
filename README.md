@@ -5,6 +5,7 @@
 # Setup
 prerequisites:
  1. python 3.12 or higher https://www.python.org/downloads/
+
 1. create a .env file in the same folder as the main.py file
 2. create the following variables inside the .env file:
    API_NINJAS_API_KEY = 'key'
