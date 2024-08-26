@@ -1,11 +1,11 @@
 ﻿## py-image-quotes-generator
-# Results
+## Results
 ![image](https://github.com/user-attachments/assets/cf051347-de11-4b96-85a3-a583bfb29a33)
 ![quote_image](https://github.com/user-attachments/assets/238cad62-242c-4e06-b295-4bf44c2cc5df)
-# Setup
-prerequisites:
+## Setup
+# pre-setup:
  1. python 3.12 or higher https://www.python.org/downloads/
-
+# setup
 1. create a .env file in the same folder as the main.py file
 2. create the following variables inside the .env file:
    API_NINJAS_API_KEY = 'key'
